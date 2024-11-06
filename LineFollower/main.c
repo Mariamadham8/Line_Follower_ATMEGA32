@@ -4,9 +4,6 @@
  *  Created on: Oct 27, 2024
  *      Author: Mariem
  */
-
-
-
 //#include <avr/io.h>
 #include"stdTypes.h"
 #include"errorStates.h"
